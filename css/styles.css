@@ -1,0 +1,30 @@
+body{
+    background-color: #BAF6F6;
+   
+}
+hr {
+    background-color: white;
+    border-style: dashed;
+    border-top-style: dotted;
+    border-color: grey;
+    height: 30%;
+    width: 5px;
+        }
+ h1{
+     color: goldenrod;
+    border-style: none;
+    border-top-style: none;
+    text-decoration-color: brown;
+    border-color: blueviolet;
+    height: 30%;
+    width: 10px;
+        }
+        h3{
+            color: blueviolet;
+           background-color: b;
+           border-style: none;
+           border-top-style: none;
+           text-decoration-color: brown;
+           border-color: blueviolet;
+           height: 30%;
+           width: 40%;
